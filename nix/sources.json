@@ -1,0 +1,26 @@
+{
+    "bundler-app-dev-shell": {
+        "branch": "main",
+        "description": "A Nix function for creating isolated, consistent, Bundler-compatible development environments",
+        "homepage": null,
+        "owner": "thelookoutway",
+        "repo": "bundler-app-dev-shell",
+        "rev": "9b554b3f82fcceec86389f7cd0b87f60e6dddc5e",
+        "sha256": "1i9xjdknzvk6kjr827h4ns24nyy7l3cakbzma8a3yaxkql5j8zk9",
+        "type": "tarball",
+        "url": "https://github.com/thelookoutway/bundler-app-dev-shell/archive/9b554b3f82fcceec86389f7cd0b87f60e6dddc5e.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "release-22.11",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "20952a956e3f67ba748ccc9609df3b87a097301b",
+        "sha256": "1x5z5jh996vch1rnq8xv5sqvjilxq4bxx56j32v0s08xlzfm01s2",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/20952a956e3f67ba748ccc9609df3b87a097301b.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
